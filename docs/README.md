@@ -47,7 +47,7 @@ Execution is governed by practical, quality-focused workflows. Teams use GitHub 
 ## Table of Contents
 
 | Document | Phase | Purpose |
-|----------|-------|---------|
+|----------|-------|----------|
 | [Project Management Overview](./octoacme-project-management-overview.md) | Foundation | Define principles, roles, and high-level lifecycle |
 | [Roles & Personas](./octoacme-roles-and-personas.md) | Foundation | Detail responsibilities for PM, PdM, Developers, QA |
 | [Project Initiation](./octoacme-project-initiation.md) | Initiation | Validate business need and authorize work |
